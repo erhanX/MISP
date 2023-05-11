@@ -51,3 +51,5 @@
 [submodule "app/files/misp-workflow-blueprints"]
 	path = app/files/misp-workflow-blueprints
 	url = https://github.com/MISP/misp-workflow-blueprints
+[submodule ".\\PyMISP\\"]
+	url = https://github.com/erhanX/PyMISP.git
