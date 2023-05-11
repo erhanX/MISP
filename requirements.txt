@@ -2,7 +2,6 @@ pyzmq
 coveralls
 codecov
 stix
-pymisp
 requests-mock
 pip
 nose
