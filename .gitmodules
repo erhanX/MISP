@@ -5,6 +5,7 @@
 [submodule "PyMISP"]
 	path = PyMISP
 	url = https://github.com/erhanX/PyMISP.git
+	branch = main
 [submodule "app/files/taxonomies"]
 	path = app/files/taxonomies
 	url = https://github.com/MISP/misp-taxonomies.git
